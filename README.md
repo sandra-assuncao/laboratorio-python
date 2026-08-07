@@ -20,8 +20,7 @@ Cada pasta representa um tópico de estudo ou conjunto de desafios práticos. Pa
 
 ---
 
-## 🚀 Como Executar os Scripts
+## 🚀 Como Visualizar e Executar os Scripts
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/sandra-assuncao/laboratorio-python.git
+1. **Navegue pelas pastas** acima e escolha o código que deseja visualizar.
+2. Para testar no seu computador, basta **copiar o código do arquivo `.py`** e executá-lo na sua IDE Python de preferência (PyCharm, VS Code, etc.).
