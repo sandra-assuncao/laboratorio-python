@@ -24,4 +24,4 @@ Cada pasta representa um tópico de estudo ou conjunto de desafios práticos. Pa
 
 1. Clone o repositório:
    ```bash
-  https://github.com/sandra-assuncao/laboratorio-python.git
+   git clone https://github.com/sandra-assuncao/laboratorio-python.git
