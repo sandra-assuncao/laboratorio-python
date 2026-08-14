@@ -1,26 +1,21 @@
-# 🐍 Laboratório de Python
+# 🧪 Laboratório de Python para Finanças & Tesouraria
 
-Este repositório é o meu ambiente de testes, exercícios e evolução contínua na linguagem Python.
+Este repositório é meu ambiente de testes, exercícios e automações focados em **Finanças e Tesouraria**, conectando conceitos da linguagem Python às rotinas e regras de negócio da área financeira (como Contas a Pagar, Contas a Receber, Tesouraria e Mercado Financeiro).
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📁 Estrutura do Repositório
 
 Os códigos estão organizados em pastas numeradas e temáticas na raiz do projeto. 
 
-Cada pasta representa um tópico de estudo ou conjunto de desafios práticos. Para explorar os códigos, basta navegar pelos diretórios.
+Cada diretório representa um tópico de estudo ou conjunto de desafios práticos, onde os fundamentos de programação são aplicados a cenários e dados do contexto financeiro. À medida que novos conceitos são praticados, novas pastas e rotinas são incorporadas ao repositório.
+
+Para explorar os códigos, basta navegar pelos diretórios acima.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-
-* **Linguagem:** Python 3.x
-* **IDE:** PyCharm
-* **Plataforma:** GitHub
-
----
-
-## 🚀 Como Visualizar e Executar os Scripts
-
-1. **Navegue pelas pastas** acima e escolha o código que deseja visualizar.
-2. Para testar no seu computador, basta **copiar o código do arquivo `.py`** e executá-lo na sua IDE Python de preferência (PyCharm, VS Code, etc.).
+- **Linguagem:** Python 3.x
+- **IDE:** PyCharm
+- **Controle de Versão:** Git & GitHub
+- **Domínio de Negócio:** Finanças, Tesouraria, Contas a Pagar/Receber, Cash Management e Validação de Dados
