@@ -1,3 +1,8 @@
+## 1. Validador de Repasse de Adquirente & Taxa MDR (Contas a Receber)
+## A regra de negócio: O sistema lê o valor bruto de uma venda no cartão e a taxa MDR contratada (ex: 2.5%). O usuário digita o valor líquido que caiu no extrato bancário.
+## O if/else: O Python calcula qual deveria ser o repasse correto e verifica se o valor que caiu na conta bate com o esperado ou se houve divergência/cobrança indevida de taxa.
+
+
 valor_bruto = float(input('Digite o valor bruto da venda R$: '))
 print('O valor bruto da venda foi R$ {}'.format(valor_bruto))
 
