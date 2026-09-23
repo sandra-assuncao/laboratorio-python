@@ -1,19 +1,16 @@
 # 🐍 Laboratório de Python para Finanças, Tesouraria & Análise de Dados
 
-Este repositório é meu ambiente de testes, exercícios e projetos focados em **Análise de Dados, Finanças e Tesouraria**, conectando conceitos da linguagem Python às rotinas e regras de negócio da área financeira (como Contas a Pagar, Contas a Receber, Tesouraria e Mercado Financeiro).
+Este repositório é meu ambiente prático de testes, exercícios e projetos focados em **Análise de Dados, Finanças e Tesouraria**, conectando conceitos da linguagem Python às rotinas e regras de negócio da área financeira (como Contas a Pagar, Contas a Receber, Tesouraria e Mercado Financeiro).
 
 ---
 
 ## 📁 Estrutura do Repositório
 
-Os códigos estão organizados em pastas temáticas na raiz do projeto:
+Os códigos estão organizados em diretórios temáticos na raiz do projeto. 
 
-* **`01_manipulacao_strings_financas/`**: Exercícios e funções para padronização e limpeza de textos/strings do universo financeiro.
-* **`02_condicionais_aplicadas_financas/`**: Aplicação de regras de negócio com estruturas condicionais (alçadas de aprovação, limites de crédito, etc.).
-* **`analise-dados-cancelamento-cartoes/`**: Análise exploratória de dados focada em churn e cancelamento de cartões.
-* **`automacao_consolidacao_extratos/`**: Automação em Python para identificação, padronização e consolidação de extratos bancários multibancos (CSV, XLSX e PDF).
+Cada pasta representa um tópico de estudo, desafio prático ou automação de processo, abordando desde fundamentos da linguagem (manipulação de strings e estruturas condicionais) até soluções avançadas de ETL, integração de arquivos multibancos (CSV, XLSX, PDF) e análise exploratória de dados.
 
-À medida que novos conceitos são praticados, novas pastas e rotinas são incorporadas ao repositório.
+ Para explorar as soluções e documentações específicas, basta navegar diretamente pelas pastas do repositório.
 
 ---
 
