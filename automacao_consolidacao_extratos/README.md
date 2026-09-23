@@ -59,6 +59,7 @@ O script `consolidador_inteligente.py` atua em **3 etapas automatizadas**:
 
 ## 📂 Estrutura dos Arquivos
 
+```text
 ├── consolidador_inteligente.py   # Script principal de automação e consolidação
 ├── gerar_arquivos_ficticios.py   # Script utilitário para geração de massa de dados
 ├── Extrato_Padronizado_BB.csv     # Extrato tratado (Banco do Brasil)
