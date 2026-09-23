@@ -1,4 +1,4 @@
-# 🐉 Laboratório de Python para Finanças, Tesouraria & Análise de Dados
+# 🐍 Laboratório de Python para Finanças, Tesouraria & Análise de Dados
 
 Este repositório é meu ambiente de testes, exercícios e projetos focados em **Análise de Dados, Finanças e Tesouraria**, conectando conceitos da linguagem Python às rotinas e regras de negócio da área financeira (como Contas a Pagar, Contas a Receber, Tesouraria e Mercado Financeiro).
 
